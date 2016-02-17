@@ -1,2 +1,4 @@
 # tinder-wannabe
-tinder clone in angular
+tinder clone
+
+Going to use ionic and angular to build this
